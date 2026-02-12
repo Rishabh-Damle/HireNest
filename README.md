@@ -1,10 +1,10 @@
 # HireNest
 
-HireNest is a full-stack job portal platform built using the MERN stack, designed to streamline the job search and hiring process.
+HireNest is a full-stack job portal platform designed to streamline the job search and hiring process.
 
 It connects students seeking opportunities with employers looking for fresh talent, offering seamless job applications, candidate shortlisting, interview scheduling, and real-time communication.
 
-This project focuses on building a scalable recruitment system with structured workflows and modern web technologies.
+This project focuses on building a scalable recruitment system with structured workflows and efficient system design.
 
 ## Problem Statement
 
